@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb-dev.learndaws.online
+CATALOGUE_HOST: catalogue-dev.learndaws.online
+REDIS_HOST: redis-dev.learndaws.online
+USER_HOST: user-dev.learndaws.online
+CART_HOST: cart-dev.learndaws.online
+MYSQL_HOST: mysql-dev.learndaws.online
+SHIPPING_HOST: shipping-dev.learndaws.online
+RABBITMQ_HOST: rabbitmq-dev.learndaws.online
+PAYMENT_HOST: payment-dev.learndaws.online

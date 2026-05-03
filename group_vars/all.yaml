@@ -9,3 +9,4 @@ MYSQL_HOST: mysql-{{ env }}.learndaws.online
 SHIPPING_HOST: shipping-{{ env }}.learndaws.online
 RABBITMQ_HOST: rabbitmq-{{ env }}.learndaws.online
 PAYMENT_HOST: payment-{{ env }}.learndaws.online
+app_version: v3
